@@ -1,0 +1,9 @@
+C:\Van_Binh\QLDAPM\baitapC#\Ap_dung_3\Ap_dung_3\bin\Debug\Ap_dung_3.exe.config
+C:\Van_Binh\QLDAPM\baitapC#\Ap_dung_3\Ap_dung_3\bin\Debug\Ap_dung_3.exe
+C:\Van_Binh\QLDAPM\baitapC#\Ap_dung_3\Ap_dung_3\bin\Debug\Ap_dung_3.pdb
+C:\Van_Binh\QLDAPM\baitapC#\Ap_dung_3\Ap_dung_3\obj\Debug\Ap_dung_3.csproj.AssemblyReference.cache
+C:\Van_Binh\QLDAPM\baitapC#\Ap_dung_3\Ap_dung_3\obj\Debug\Ap_dung_3.Properties.Resources.resources
+C:\Van_Binh\QLDAPM\baitapC#\Ap_dung_3\Ap_dung_3\obj\Debug\Ap_dung_3.csproj.GenerateResource.cache
+C:\Van_Binh\QLDAPM\baitapC#\Ap_dung_3\Ap_dung_3\obj\Debug\Ap_dung_3.csproj.CoreCompileInputs.cache
+C:\Van_Binh\QLDAPM\baitapC#\Ap_dung_3\Ap_dung_3\obj\Debug\Ap_dung_3.exe
+C:\Van_Binh\QLDAPM\baitapC#\Ap_dung_3\Ap_dung_3\obj\Debug\Ap_dung_3.pdb

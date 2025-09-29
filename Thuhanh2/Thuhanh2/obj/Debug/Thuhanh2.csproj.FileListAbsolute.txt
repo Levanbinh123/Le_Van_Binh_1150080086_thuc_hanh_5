@@ -1,0 +1,9 @@
+C:\Van_Binh\QLDAPM\baitapC#\Thuhanh2\Thuhanh2\bin\Debug\Thuhanh2.exe.config
+C:\Van_Binh\QLDAPM\baitapC#\Thuhanh2\Thuhanh2\bin\Debug\Thuhanh2.exe
+C:\Van_Binh\QLDAPM\baitapC#\Thuhanh2\Thuhanh2\bin\Debug\Thuhanh2.pdb
+C:\Van_Binh\QLDAPM\baitapC#\Thuhanh2\Thuhanh2\obj\Debug\Thuhanh2.csproj.AssemblyReference.cache
+C:\Van_Binh\QLDAPM\baitapC#\Thuhanh2\Thuhanh2\obj\Debug\Thuhanh2.Properties.Resources.resources
+C:\Van_Binh\QLDAPM\baitapC#\Thuhanh2\Thuhanh2\obj\Debug\Thuhanh2.csproj.GenerateResource.cache
+C:\Van_Binh\QLDAPM\baitapC#\Thuhanh2\Thuhanh2\obj\Debug\Thuhanh2.csproj.CoreCompileInputs.cache
+C:\Van_Binh\QLDAPM\baitapC#\Thuhanh2\Thuhanh2\obj\Debug\Thuhanh2.exe
+C:\Van_Binh\QLDAPM\baitapC#\Thuhanh2\Thuhanh2\obj\Debug\Thuhanh2.pdb
