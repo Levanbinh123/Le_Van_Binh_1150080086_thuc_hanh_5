@@ -1,9 +1,0 @@
-C:\Van_Binh\QLDAPM\baitapC#\thuc_hanh3\thuc_hanh3\obj\Debug\thuc_hanh3.csproj.AssemblyReference.cache
-C:\Van_Binh\QLDAPM\baitapC#\thuc_hanh3\thuc_hanh3\obj\Debug\thuc_hanh3.Properties.Resources.resources
-C:\Van_Binh\QLDAPM\baitapC#\thuc_hanh3\thuc_hanh3\obj\Debug\thuc_hanh3.csproj.GenerateResource.cache
-C:\Van_Binh\QLDAPM\baitapC#\thuc_hanh3\thuc_hanh3\obj\Debug\thuc_hanh3.csproj.CoreCompileInputs.cache
-C:\Van_Binh\QLDAPM\baitapC#\thuc_hanh3\thuc_hanh3\bin\Debug\thuc_hanh3.exe.config
-C:\Van_Binh\QLDAPM\baitapC#\thuc_hanh3\thuc_hanh3\bin\Debug\thuc_hanh3.exe
-C:\Van_Binh\QLDAPM\baitapC#\thuc_hanh3\thuc_hanh3\bin\Debug\thuc_hanh3.pdb
-C:\Van_Binh\QLDAPM\baitapC#\thuc_hanh3\thuc_hanh3\obj\Debug\thuc_hanh3.exe
-C:\Van_Binh\QLDAPM\baitapC#\thuc_hanh3\thuc_hanh3\obj\Debug\thuc_hanh3.pdb

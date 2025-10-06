@@ -1,9 +1,0 @@
-C:\Van_Binh\QLDAPM\baitapC#\Apdung1\Apdung1\bin\Debug\Apdung1.exe.config
-C:\Van_Binh\QLDAPM\baitapC#\Apdung1\Apdung1\bin\Debug\Apdung1.exe
-C:\Van_Binh\QLDAPM\baitapC#\Apdung1\Apdung1\bin\Debug\Apdung1.pdb
-C:\Van_Binh\QLDAPM\baitapC#\Apdung1\Apdung1\obj\Debug\Apdung1.csproj.AssemblyReference.cache
-C:\Van_Binh\QLDAPM\baitapC#\Apdung1\Apdung1\obj\Debug\Apdung1.Properties.Resources.resources
-C:\Van_Binh\QLDAPM\baitapC#\Apdung1\Apdung1\obj\Debug\Apdung1.csproj.GenerateResource.cache
-C:\Van_Binh\QLDAPM\baitapC#\Apdung1\Apdung1\obj\Debug\Apdung1.csproj.CoreCompileInputs.cache
-C:\Van_Binh\QLDAPM\baitapC#\Apdung1\Apdung1\obj\Debug\Apdung1.exe
-C:\Van_Binh\QLDAPM\baitapC#\Apdung1\Apdung1\obj\Debug\Apdung1.pdb
